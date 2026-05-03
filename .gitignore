@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+uploads/*
+*.pyc
+__pycache__/
+ml-service/.venv/
+backend/uploads/*
+*.pem
